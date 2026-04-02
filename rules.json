@@ -1,0 +1,102 @@
+[
+  {
+      "name": "WordPress",
+      "patterns": ["wp-content", "wp-includes", "wp-json"],
+      "min_confidence": 0.5
+  },
+  {
+      "name": "Shopify",
+      "patterns": ["cdn.shopify.com", "shopify.theme"],
+      "min_matches": 1
+  },
+  {
+      "name": "Wix",
+      "patterns": ["wix.com", "static.wixstatic.com"],
+      "min_matches": 1
+  },
+  {
+      "name": "Squarespace",
+      "patterns": ["squarespace.com"],
+      "min_matches": 1
+  },
+  {
+      "name": "Magento",
+      "patterns": ["mage/cookies", "magento"],
+      "min_matches": 1
+  },
+  {
+      "name": "Drupal",
+      "patterns": ["drupal-settings-json", "sites/default"],
+      "min_matches": 1
+  },
+  {
+      "name": "Joomla",
+      "patterns": ["joomla"],
+      "min_matches": 1
+  },
+  {
+      "name": "PrestaShop",
+      "patterns": ["prestashop"],
+      "min_matches": 1
+  },
+  {
+      "name": "React",
+      "patterns": ["data-reactroot", "react-dom", "__react"],
+      "min_matches": 1
+  },
+  {
+      "name": "Vue.js",
+      "patterns": ["__vue__", "vue.js"],
+      "min_matches": 1
+  },
+  {
+      "name": "Angular",
+      "patterns": ["ng-app", "ng-controller", "angular.module"],
+      "min_matches": 1
+  },
+  {
+      "name": "Next.js",
+      "patterns": ["_next/static"],
+      "min_matches": 1
+  },
+  {
+      "name": "Nuxt.js",
+      "patterns": ["__nuxt"],
+      "min_matches": 1
+  },
+  {
+      "name": "Bootstrap",
+      "patterns": ["bootstrap.min.css"],
+      "min_matches": 1
+  },
+  {
+      "name": "jQuery",
+      "patterns": ["jquery"],
+      "min_matches": 1
+  },
+  {
+      "name": "Cloudflare",
+      "patterns": ["cdn-cgi"],
+      "min_matches": 1
+  },
+  {
+      "name": "Google Analytics",
+      "patterns": ["google-analytics.com", "gtag("],
+      "min_matches": 1
+  },
+  {
+      "name": "Google Tag Manager",
+      "patterns": ["googletagmanager.com"],
+      "min_matches": 1
+  },
+  {
+      "name": "Hotjar",
+      "patterns": ["hotjar"],
+      "min_matches": 1
+  },
+  {
+      "name": "Stripe",
+      "patterns": ["js.stripe.com"],
+      "min_matches": 1
+  }
+]

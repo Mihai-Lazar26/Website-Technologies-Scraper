@@ -1,0 +1,4383 @@
+[
+  {
+    "domain": "xn--kleoghvidevareservice-qfc.dk",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "chavchavadze-m2-41-tbilisi.booked.net",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "somalidisablesupport.com",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "globalrn.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "yourfamilylines.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "231selfstorage.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "szentkristofudvarhaz.hu",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "jcmobilecigars.com",
+    "technologies": [
+      {
+        "name": "Squarespace",
+        "evidence": [
+          "squarespace.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "trs-energycontrol.de",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "5starremoval.weebly.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "domain": "coenzwezerijnen.nu",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "katesworldtravel.com",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "gapconstructionwi.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "disneystore.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "38inspect.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "3xd.co.uk",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "gutendorf.ru",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "largsbaychiropractic.com.au",
+    "technologies": [
+      {
+        "name": "Squarespace",
+        "evidence": [
+          "squarespace.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "rsthealthcare.com",
+    "technologies": []
+  },
+  {
+    "domain": "gogroupauto.com",
+    "technologies": []
+  },
+  {
+    "domain": "imgs.co.jp",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "newbeaverborough.org",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "elementor 3.35.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "fsbwyoming.com",
+    "technologies": []
+  },
+  {
+    "domain": "sgsextremaratio.it",
+    "technologies": [
+      {
+        "name": "Magento",
+        "evidence": [
+          "magento"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Joomla",
+        "evidence": [
+          "joomla"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nuxt.js",
+        "evidence": [
+          "__nuxt"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Hotjar",
+        "evidence": [
+          "hotjar"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "ferienwohnung-kastell.de",
+    "technologies": []
+  },
+  {
+    "domain": "msc-manching.de",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "jobresourcecentre.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "clotting-guide.online",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "coastwidemechanicalcentralcoast.com.au",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "dioxoxigenio.com.br",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "doringpoort.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "doortodoororganics.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "253media.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "velvety.eu",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "wpml ver:4.8.5 stt:1,3;",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "fisherinvestments.com",
+    "technologies": []
+  },
+  {
+    "domain": "amourfinder.com",
+    "technologies": []
+  },
+  {
+    "domain": "familybroker.cz",
+    "technologies": [
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "rionecontrastanga.net",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "powered by layerslider 6.7.5 - multi-purpose, responsive, parallax, mobile-friendly slider plugin for wordpress.",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "kentpropertyrenovations.co.uk",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Magento",
+        "evidence": [
+          "magento"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Joomla",
+        "evidence": [
+          "joomla"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Hotjar",
+        "evidence": [
+          "hotjar"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "stwannas.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "5w.design",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "genesisny.net",
+    "technologies": [
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "domain": "huberautomotive.com",
+    "technologies": []
+  },
+  {
+    "domain": "abcdpinturas.com.br",
+    "technologies": []
+  },
+  {
+    "domain": "11853prospecthill.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "avocatalinamanciu.ro",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "centreconsiliereavort.ro",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "marien-apotheke-grefrath-app.de",
+    "technologies": []
+  },
+  {
+    "domain": "dssfla.com",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "4stonebuildings.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "empresasori.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      },
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "passwordstore.it",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "arenaskolor.se",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "sprucemeadowsmd.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "loizillon.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "boken.ch",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "lojatatical.com.br",
+    "technologies": [
+      {
+        "name": "Magento",
+        "evidence": [
+          "mage/cookies",
+          "magento"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "maniaupiekszania.pl",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "aida-cruises.at",
+    "technologies": []
+  },
+  {
+    "domain": "weducars.co.za",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "lets.gr",
+    "technologies": [
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "restwellstreetmedicalcentre.com.au",
+    "technologies": [
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag(",
+          "google-analytics.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "2020wealthadvisory.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "den-a-sha.co.jp",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "natedea.co.uk",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "infoaboutnetwork.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "skywayrestaurants.net",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "haus-muehlenfeld-pommerby.de",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "aaice.net",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "all in one seo (aioseo) 4.9.5.1",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "itsolutions24.pl",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "mehmetefendimacedonia.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "2ldm.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "site kit by google 1.175.0",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "laplumedelisibilite.fr",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "cytofastmed.com",
+    "technologies": []
+  },
+  {
+    "domain": "365outsource.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "1planettechnologies.weebly.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "domain": "hnafirm.com",
+    "technologies": [
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "seringa-safaris.com",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "produkttheater.de",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "soziale-dreigliederung.de",
+    "technologies": []
+  },
+  {
+    "domain": "antikebau.de",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "unnames.com",
+    "technologies": [
+      {
+        "name": "Shopify",
+        "evidence": [
+          "cdn.shopify.com",
+          "shopify.theme"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "premierhomeremodeling.net",
+    "technologies": [
+      {
+        "name": "Next.js",
+        "evidence": [
+          "_next/static"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "westchesterpointechiro.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "bas-ingenieria.cl",
+    "technologies": [
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "3strandschurch.org",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "resourceservicesolutions.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "branson-connection.com",
+    "technologies": []
+  },
+  {
+    "domain": "skywardspeech.com.au",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "sevecoitalia.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "cei-expertises.fr",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "nielsbirk.dk",
+    "technologies": [
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "europeaninns.com",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "alabamabuildingcontractor.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "roccofortehotels.cn",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "phucankhanggroup.com",
+    "technologies": [
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "2-com.net",
+    "technologies": [
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag(",
+          "google-analytics.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "cultivateventures.co.nz",
+    "technologies": [
+      {
+        "name": "Squarespace",
+        "evidence": [
+          "squarespace.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "radxmobile.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "amaronbattery.in",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "everhartsoutdoor.com",
+    "technologies": []
+  },
+  {
+    "domain": "3bsexcavating.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "massageforworldpeace.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "ionos mywebsite",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "handycars.com",
+    "technologies": []
+  },
+  {
+    "domain": "hansis-knusperhendl-foodtruck.eatbu.com",
+    "technologies": [
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "weissbauchpapageien.de",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "buchhaltungsservice-koenig.de",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "broganlmt.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "juanmunozhomesmart.com",
+    "technologies": []
+  },
+  {
+    "domain": "solvos.nl",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Angular",
+        "evidence": [
+          "ng-app"
+        ],
+        "confidence": 0.33
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "959marine.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "3dwealthadvisory.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "lscms.org",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "261welfarefund.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "deerfieldbeachautomall.com",
+    "technologies": []
+  },
+  {
+    "domain": "insieme.stanford.edu",
+    "technologies": [
+      {
+        "name": "Drupal",
+        "evidence": [
+          "meta generator",
+          "drupal-settings-json"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "kande-hoikuen.ed.jp",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "orifoodsco.com",
+    "technologies": [
+      {
+        "name": "Squarespace",
+        "evidence": [
+          "squarespace.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "nevsproductions.com",
+    "technologies": [
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "odoo",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "makpharma-eg.com",
+    "technologies": [
+      {
+        "name": "starfield technologies; go daddy website builder 8.0.0000",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "layer7innovations.ca",
+    "technologies": [
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "ejc-courtage-assurances.fr",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "mysterion.hr",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "lorenz-baumarkt.de",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "cmc01village.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "eclairage-solaire-occitanie.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "oakwell.vet",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "ferrateoxidant.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "nwmotorinn.com",
+    "technologies": [
+      {
+        "name": "React",
+        "evidence": [
+          "data-reactroot",
+          "react-dom"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "wglchurch.com",
+    "technologies": []
+  },
+  {
+    "domain": "ecolab.com",
+    "technologies": []
+  },
+  {
+    "domain": "maiquotes.net",
+    "technologies": []
+  },
+  {
+    "domain": "cmresolutions.com",
+    "technologies": [
+      {
+        "name": "netobjects fusion 5.0 for windows",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "littlerockafamily.de",
+    "technologies": []
+  },
+  {
+    "domain": "evelynanders.com",
+    "technologies": []
+  },
+  {
+    "domain": "sdmdjentertainment.com",
+    "technologies": [
+      {
+        "name": "starfield technologies; go daddy website builder 8.0.0000",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "howellmotors.com",
+    "technologies": []
+  },
+  {
+    "domain": "domekvefaru.com",
+    "technologies": [
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "webnode 2",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "ideenhunger.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Hotjar",
+        "evidence": [
+          "hotjar"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "jenniferbacksteininteriors.com",
+    "technologies": [
+      {
+        "name": "Squarespace",
+        "evidence": [
+          "squarespace.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "dorpsbelangen.nu",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "powercleaning.services",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "stoperbis.pl",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "northshoremacnut.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "gitesducharmois.fr",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "a3sec.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Hotjar",
+        "evidence": [
+          "hotjar"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "hubspot",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "allegrocreditbeta.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "concrete-fitness.edan.io",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "jonesbuickgmc.com",
+    "technologies": []
+  },
+  {
+    "domain": "elcolegiocongresosyrestaurante.com",
+    "technologies": [
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "la-residenza-del-principe-rome-it.booked.net",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "hoffmaninstitute.co.uk",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "xn--jobvrkstedet-9cb.nu",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "costa-coffee.be",
+    "technologies": []
+  },
+  {
+    "domain": "appelpsychotherapy.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "jackwills.com",
+    "technologies": []
+  },
+  {
+    "domain": "pcb-cpb.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "nicholsonchiro.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "brucebournesold.com",
+    "technologies": []
+  },
+  {
+    "domain": "disinfestazioniepiscine.it",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "startravelcompany.com",
+    "technologies": []
+  },
+  {
+    "domain": "11thhourracing.org",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-includes"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "chiantifiorentino.it",
+    "technologies": [
+      {
+        "name": "Bootstrap",
+        "evidence": [
+          "bootstrap.min.css"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "bata.edu.hu",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "3-energie-klaas.de",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "redpants.jp",
+    "technologies": [
+      {
+        "name": "Squarespace",
+        "evidence": [
+          "squarespace.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "1ststopsupply.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "freo.com.au",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "miratrade.com.tr",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "labdemo.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-includes"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "davidloeppke.com",
+    "technologies": [
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "wrinkle-pei.cz",
+    "technologies": [
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "2agateway.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "ledestjernenstu.dk",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "koniczynka.info.pl",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "site kit by google 1.175.0",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "1stlocksheathscouts.org.uk",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "herbalwise.ie",
+    "technologies": [
+      {
+        "name": "Shopify",
+        "evidence": [
+          "cdn.shopify.com",
+          "shopify.theme"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "aardvarkelectriccorp.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "tamcconstruction.net",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "fluxar.com.ar",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "all in one seo (aioseo) 4.9.0",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "abbikadabbisbakingco.com",
+    "technologies": [
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "square online",
+        "evidence": [
+          "meta generator"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "100wwcstlw.org",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "joseph-herber.business.site",
+    "technologies": []
+  },
+  {
+    "domain": "thomasrosenbaum.com",
+    "technologies": [
+      {
+        "name": "Squarespace",
+        "evidence": [
+          "squarespace.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "needaphysio.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "celiabedilia.com",
+    "technologies": [
+      {
+        "name": "Wix",
+        "evidence": [
+          "meta generator",
+          "static.wixstatic.com",
+          "wix.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "React",
+        "evidence": [
+          "react-dom"
+        ],
+        "confidence": 0.33
+      }
+    ]
+  },
+  {
+    "domain": "1stclairavewest.com",
+    "technologies": [
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "cdn-cgi",
+          "server header"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "shapirolawfirm.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "arol.cl",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "5rcircleprocess.weebly.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "google-analytics.com"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Cloudflare",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "deepseass.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "lighthouseprc.org",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag(",
+          "google-analytics.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "construccionesyatecnicas.com",
+    "technologies": [
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "sindacatobadanti.it",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "unitedveterinaryservice.com",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "domain": "bfnelson.it",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "joburgheritage.org.za",
+    "technologies": [
+      {
+        "name": "WordPress",
+        "evidence": [
+          "meta generator",
+          "wp-json",
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "jQuery",
+        "evidence": [
+          "jquery"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Google Analytics",
+        "evidence": [
+          "gtag("
+        ],
+        "confidence": 0.5
+      },
+      {
+        "name": "Google Tag Manager",
+        "evidence": [
+          "googletagmanager.com"
+        ],
+        "confidence": 1.0
+      },
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "rivithead.com",
+    "technologies": [
+      {
+        "name": "Apache",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "verticalcommunitychurch.com",
+    "technologies": [
+      {
+        "name": "Nginx",
+        "evidence": [
+          "server header"
+        ],
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "domain": "footasylum.com",
+    "technologies": []
+  }
+]
