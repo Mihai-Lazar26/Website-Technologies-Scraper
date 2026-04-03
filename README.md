@@ -149,6 +149,33 @@ python tech_scraper.py
 
 ---
 
+## ⚖️ Discussion / Trade-offs
+
+During development, several trade-offs were considered in order to balance simplicity, performance, and accuracy:
+
+* **Accuracy vs Simplicity**
+  The detection is based on heuristic rules (pattern matching, meta tags, headers).
+  This keeps the implementation simple and fast, but may miss some technologies or introduce false positives.
+
+* **Multiple Signals vs Noise**
+  Combining HTML, meta tags, and headers improves detection coverage.
+  However, it can also introduce redundant or noisy detections, which required additional deduplication logic.
+
+* **Normalization vs Detail**
+  Technology names are normalized (e.g. removing versions like "WordPress 6.9.4")
+  to ensure consistent aggregation across domains.
+  This improves counting accuracy but removes detailed information such as versions.
+
+* **Performance vs Reliability**
+  Parallel processing significantly speeds up execution when analyzing many domains.
+  However, some requests may fail due to timeouts or server restrictions.
+
+* **Heuristic Detection Limits**
+  Some technologies (especially backend ones) may not be detectable from HTML or headers alone,
+  making the results best-effort rather than exhaustive.
+
+---
+
 ## ⚠️ Limitations
 
 * Some technologies may not be detectable if hidden
