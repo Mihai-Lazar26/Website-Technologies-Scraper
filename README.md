@@ -29,6 +29,15 @@ The final output includes:
 
 ---
 
+## 🧩 Production Considerations
+
+* Handles HTTP/HTTPS fallback and request failures
+* Uses timeouts to prevent blocking requests
+* Modular structure for easy extension (rules, normalization, detection)
+* Scalable through parallel processing
+
+---
+
 ## 🛠️ Tech Stack
 
 * Python 3
